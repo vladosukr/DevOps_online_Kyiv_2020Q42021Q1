@@ -1,0 +1,15 @@
+6a2f1d5 HEAD@{0}: merge develop: Fast-forward
+0e4e47b HEAD@{1}: checkout: moving from develop to main
+6a2f1d5 HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+6d14fe7 HEAD@{3}: merge images: Fast-forward
+91600e5 HEAD@{4}: reset: moving to HEAD
+91600e5 HEAD@{5}: checkout: moving from styles to develop
+276c852 HEAD@{6}: commit: Styles added
+91600e5 HEAD@{7}: checkout: moving from develop to styles
+91600e5 HEAD@{8}: checkout: moving from images to develop
+6d14fe7 HEAD@{9}: commit: Added folder with images and index.html modified
+91600e5 HEAD@{10}: checkout: moving from develop to images
+91600e5 HEAD@{11}: commit: index.html page
+0e4e47b HEAD@{12}: checkout: moving from main to develop
+0e4e47b HEAD@{13}: commit: First commit
+71ae254 HEAD@{14}: clone: from https://github.com/vladosukr/DevOps_online_Kyiv_2020Q42021Q1.git
