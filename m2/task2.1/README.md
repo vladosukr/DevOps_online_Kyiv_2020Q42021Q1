@@ -26,12 +26,19 @@ Having explored the most common features like general settings, system settings,
 
 Then I configured the connections of different network modes like: Host-only, Internal, Bridged, NAT, NATservice. Kindly see some examples of pinging below.
 
+* VMtoHost_NAT
 
 ![Screenshot_4_VMtoHost_NAT](Screenshots/Screenshot_VMtoHost_NAT.jpg)
 
+* VMtoInet_VMtoVM_BridgedConnection
+
 ![Screenshot_5_VMtoInet_VMtoVM_BridgedConnection](Screenshots/Screenshot_VMtoInet_VMtoVM_BridgedConnection.jpg)
 
+* VMtoVM_Internal
+
 ![Screenshot_6_VMtoVM_Internal](Screenshots/Screenshot_VMtoVM_Internal.jpg)
+
+* VMtoVM_NAT
 
 ![Screenshot_7_VMtoVM_NAT](Screenshots/Screenshot_VMtoVM_NAT.jpg)
 
