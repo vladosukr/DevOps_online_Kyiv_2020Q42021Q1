@@ -1,7 +1,10 @@
 # PART 1. HYPERVISORS
 * What are the most popular hypervisors for infrastructure virtualization?
+
 *VMware vSphere, Microsoft Hyper-V, Oracle VM VirtualBox*
+
 * Briefly describe the main differences of the most popular hypervisors.
+
 *Bare metal or native vs hosted hypervisors. Type 1 runs directly on the hardware with Virtual Machine resources provided. Type 2 runs on the host OS to provide virtualization management and other services.*
 
 
