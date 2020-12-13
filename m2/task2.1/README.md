@@ -56,5 +56,5 @@ I executed the *date* command as an example of proper working
 
 Then I downloaded the minimal version of CentOS distributive and made a Vagrant box, based on it.
 
-![Screenshot_11](Screenshots/vagrant_3.jpg)
+![Screenshot_11](Screenshots/vagrant_package.jpg)
 
