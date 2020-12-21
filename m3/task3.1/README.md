@@ -133,7 +133,7 @@ Please see the screenshots below.
 
 ![Screenshot_3](Screenshots/RDS_2.jpg)
 
-Doing some manipilations over the database.
+Doing some manipulations over the database.
 
 ![Screenshot_4](Screenshots/RDS_3.jpg)
 
@@ -147,11 +147,11 @@ The last but not the least part of the task is DynamoDB.
 
 The query search is based on Primary Key.
 
-![Screenshot_7](Screenshots/DB_2.jpg)
+![Screenshot_7](Screenshots/DB_query.jpg)
 
 While the scan search performs scanning of all database.
 
-![Screenshot_8](Screenshots/DB_3.jpg)
+![Screenshot_8](Screenshots/DB_scan.jpg)
 
 
 
