@@ -3,12 +3,12 @@ pipeline {
   stages {
     stage('stage1') {
       steps {
-        echo "It\'s a build $BUILD_NUMBER and demo $DEMO"
+        sh 'echo "It\\\'s a build $BUILD_NUMBER and demo $DEMO"'
       }
     }
 
   }
   environment {
-    DEMO = "1"
+    DEMO = '1'
   }
 }
